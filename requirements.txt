@@ -1,4 +1,4 @@
-﻿absl-py==2.2.2
+absl-py==2.2.2
 astunparse==1.6.3
 blinker==1.9.0
 cachetools==5.5.2
@@ -13,7 +13,6 @@ google-auth==2.40.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.71.0
-gunicorn>=21.2.0
 h5py==3.13.0
 idna==3.10
 itsdangerous==2.2.0
@@ -45,7 +44,7 @@ six==1.17.0
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.9.1
+tensorflow==2.19.0
 tensorflow-estimator==2.10.0
 tensorflow-intel==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
